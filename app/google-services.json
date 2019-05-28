@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199935994152",
+    "firebase_url": "https://greatgriontapp.firebaseio.com",
+    "project_id": "greatgriontapp",
+    "storage_bucket": "greatgriontapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199935994152:android:a52ff0da0b0a71f4",
+        "android_client_info": {
+          "package_name": "com.freetek.freeapp.greatgriotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199935994152-rbfb40fc3emt9gse6b7g6e321889seb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freetek.freeapp.greatgriotapp",
+            "certificate_hash": "d07c518462929d160dde042757845ec03133481b"
+          }
+        },
+        {
+          "client_id": "199935994152-v60h5enr6r4h1vn8r09c2dsntdti4mu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiquuEnDgI7ofwAfjjV1vzWAHSz3upwwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199935994152-v60h5enr6r4h1vn8r09c2dsntdti4mu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="age_range">
+        <item>0 - 12 years</item>
+        <item>13 - 17 years</item>
+        <item>18 - 22 years</item>
+        <item>23 - 25 years</item>
+        <item>27 - 30 years</item>
+        <item>30 - 35 years</item>
+        <item>36 - 40 years</item>
+        <item>41 - 45 years</item>
+        <item>46 - 55 years</item>
+        <item>55 - 66 years</item>
+        <item>66 - 77 years</item>
+        <item>77 - 88 years</item>
+        <item>88 years and above</item>
+    </array>
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    <array name="country">
+        <item>United States of America</item>
+        <item>Nigeria</item>
+        <item>Canada</item>
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>Paris</item>
+        <item>Netherland</item>
+        <item>Kenya</item>
+        <item>South Africa</item>
+    </array>
+</resources>

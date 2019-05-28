@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:layout_marginTop="10dp"
+    app:cardElevation="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:background="@color/grey"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"/>
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="100dp"
+            android:layout_height="120dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="10dp"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="10dp"
+            android:text="Things Fall Apart"
+            android:textAllCaps="true"/>
+
+        <TextView
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/circle_number_black" />
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/ic_audiotrack_black_24dp"/>
+        <TextView
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="50dp"
+            android:text="Author"/>
+        <TextView
+            android:textSize="14sp"
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="50dp"
+            android:text="Trian Bron"/>
+        <TextView
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="80dp"
+            android:text="Publisher"/>
+        <TextView
+            android:textSize="14sp"
+            android:id="@+id/publisher"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="80dp"
+            android:text="Precent Books"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

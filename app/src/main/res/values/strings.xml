@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GreatGriot App</string>
+    <string name="close">Close</string>
+    <string name="creat_account">Create Account</string>
+    <string name="email_hint">Enter email</string>
+    <string name="head2">How it works</string>
+    <string name="head3">Sell your books</string>
+    <string name="loading">Loading</string>
+    <string name="login">Login</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="next">Next</string>
+    <string name="open">Open</string>
+    <string name="password_hint">Enter password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="skip">Skip</string>
+    <string name="start">GOT IT</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="welcome1">Audio books on the go and ebooks at your convenience</string>
+    <string name="welcome2">Subscribe to enjoy unlimited ebook and audio book reads</string>
+    <string name="welcome3">Publish your own books and get paid per reads</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

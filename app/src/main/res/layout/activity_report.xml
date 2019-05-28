@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="18sp"
+        android:text="SEND US A MESSAGE"/>
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_height="300dp"
+        android:layout_width="match_parent"
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/recycler_view"
+        android:background="@drawable/comment_edit_box"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginStart="10dp">
+
+        <EditText
+            android:id="@+id/report_box"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:hint="Enter comment below "
+            android:textColorHint="@android:color/black"
+            android:textColor="@android:color/black"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="12sp"
+            android:text=""
+            />
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/send"
+        android:layout_height="50dp"
+        android:layout_width="200dp"
+        android:background="@drawable/button_blue"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="390dp"
+        android:text="SEND"
+        android:textColor="@android:color/white"/>
+
+</RelativeLayout>
